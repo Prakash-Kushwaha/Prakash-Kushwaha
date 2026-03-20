@@ -25,3 +25,4 @@ Here are some ideas to get you started:
 ## Typing
 ![typeracer](https://data.typeracer.com/misc/badge?user=prakash2003)
 - [Keybr](https://www.keybr.com/profile/a4avikh)
+- [MonkeyType](https://monkeytype.com/profile/arcX)
