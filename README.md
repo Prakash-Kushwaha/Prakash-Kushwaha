@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on some IOT projects.
 - 🌱 I’m currently learning PCB Designing & AVR Microcontrollers.
 - 👯 I’m looking to collaborate on IOT projects.
-- 📫 Profiles: [Linkedin](https://www.linkedin.com/in/prakash309)
+- 📫 Profiles: [Linkedin](https://www.linkedin.com/in/prakashsde3)
 - 😄 Pronouns: He/Him
 
 ## Learning Roadmap
